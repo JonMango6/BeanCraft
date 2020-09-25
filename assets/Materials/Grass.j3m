@@ -1,0 +1,10 @@
+Material Grass : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Textures/grass.jpg
+        NormalMap : Textures/Terrain/Rock/Rock.png
+        UseMaterialColors : true
+        Specular : 1.0 1.0 1.0 1.0
+        Diffuse : 1.0 1.0 1.0 1.0
+        Shininess : 0.0
+     }
+}

@@ -1,0 +1,9 @@
+Material KidneyBeanStone : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Textures/cobblestone2.jpg
+        UseMaterialColors : true
+        Specular : 1.0 1.0 1.0 1.0
+        Diffuse : 1.0 1.0 1.0 1.0
+        Shininess : 1.0
+     }
+}
