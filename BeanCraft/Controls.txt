@@ -1,0 +1,20 @@
+Launch the game using the shortcut, Have fun!
+
+MOVEMENT
+      W - move forward
+       A - move left
+       S - move backward
+       D - move right
+       Space bar - jump
+
+BLOCK PLACEMENT
+       Left click - delete block
+       Right click - place block
+       Left shift - Change block
+
+BLOCK INDEX
+       1st block in hand - Grass
+       2nd block in hand - Beanstone
+       3rd block in hand - Lima bean ore
+       4th block in hand - coffee bean wood
+       5th block in hand - S A L
